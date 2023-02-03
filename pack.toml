@@ -1,0 +1,13 @@
+name = "HexMC-Collective Fork"
+author = "Isopod__Gaming"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4412dae51f5b1be2bc12dc6c0c0dad91eb6cec029a3796e460cb28f47313655c"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.18.1-beta.66"
